@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
 
 # Change this to your GitHub username/repo name
-url: https://carlosecarrillogallegos.github.io
+url: https://carlosecarrillogallegos.io
 baseurl: /spinningglobe # leave empty if using username.github.io
 
 # -----------------------------------------------------------------------------
@@ -74,6 +74,12 @@ collections:
     enabled: false
   projects:
     enabled: false
+
+# -----------------------------------------------------------------------------
+# Third party libraries - disabled
+# -----------------------------------------------------------------------------
+
+third_party_libraries: {}
 
 # -----------------------------------------------------------------------------
 # Jekyll settings - don't change these
