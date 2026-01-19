@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # your site title
+title: My Blog # change this to your blog title
 first_name: Your
-middle_name: 
+middle_name: M
 last_name: Name
 email: you@example.com
 description: > # this means to ignore newlines
