@@ -104,25 +104,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
-  - jekyll-email-protect
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-sitemap
-  - jekyll-target-blank
-  - jemoji
-
-# -----------------------------------------------------------------------------
-# Jekyll archives - for blog organization
-# -----------------------------------------------------------------------------
-
-jekyll-archives:
-  enabled: [year, tags, categories]
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
